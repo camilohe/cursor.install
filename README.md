@@ -1,4 +1,4 @@
-﻿# cursorai.install
+﻿# cursor.install
 A [chocolatey](https://chocolatey.org/) [**package**](https://chocolatey.org/packages/cursor.install) to install [**cursor**](https://cursor.sh/) the AI code editor from [Anysphere](https://anysphere.inc/) on Windows.
 
 Note that this installs **cursor** silently but onboarding will still run on first launch. 
@@ -16,7 +16,7 @@ ls cursor*exe|Get-FileHash|fl
 ```
 - update the sha256 value in tools\chocolateyinstall.ps1
 - update the url in tools\chocolateyinstall.ps1 with the latest version
-- update the version in cursorai.install.nuspec
+- update the version in cursor.install.nuspec
 - commit your changes
 - [package, test and publish](https://docs.chocolatey.org/en-us/create/create-packages-quick-start/)
 - push your changes
