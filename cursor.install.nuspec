@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>cursor.install</id>
+    <version>0.41.3</version>
+    <packageSourceUrl>https://github.com/camilohe/cursor.install</packageSourceUrl>
+    <owners>camilohe</owners>
+
+    <title>cursor (Install)</title>
+    <authors>Anysphere</authors>
+    <projectUrl>https://cursor.com</projectUrl>
+    <licenseUrl>https://www.cursor.com/terms-of-service</licenseUrl>
+    <docsUrl>https://docs.cursor.com/get-started/migrate-from-vscode</docsUrl>
+    <bugTrackerUrl>https://github.com/getcursor/cursor/issues</bugTrackerUrl>
+    <tags>cursor AI editor code</tags>
+    <summary>cursor: the cursor AI code editor installer</summary>
+    <description>Cursor is an AI-powered code editor that integrates advanced features to enhance software development efficiency.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
