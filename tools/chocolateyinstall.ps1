@@ -8,7 +8,7 @@ $packageArgs = @{
     url64bit       = $installerUrl
     softwareName   = 'cursor*'
     
-    checksum64     = '71C746465D4CAAE39B7A878EED3C80AAB2271DC3569B140EEE6DC2679E16BBCE'
+    checksum64     = '618BFC4DDD852115CF2F12F232D3195634C8751FB6B52F405F01ACF80D86E5B5'
     checksumType64 = 'sha256' 
     
     silentArgs     = '/S'
