@@ -5,6 +5,7 @@ Note that this installs **cursor** silently but onboarding will still run on fir
 
 
 ## changes
+- updated version: cursor 0.43.6
 - initial version: cursor 0.41.3
 
 ## updating this package
